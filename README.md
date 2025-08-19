@@ -11,6 +11,7 @@ and preprocessing** to **analysis, visualization, and interpretation**
 marketing, operations, healthcare, manufacturing, sports, and
 politics**.
 
+Medium Blog Link : https://medium.com/@ihetpatel79/perfect-you-want-a-medium-style-blog-that-looks-professional-but-still-has-the-personal-voice-of-975863d664e1
 ------------------------------------------------------------------------
 
 ## 📂 Projects Overview
