@@ -11,7 +11,9 @@ and preprocessing** to **analysis, visualization, and interpretation**
 marketing, operations, healthcare, manufacturing, sports, and
 politics**.
 
-Medium Blog : [Link](https://medium.com/@ihetpatel79/my-internship-journey-exploring-data-analytics-across-domains-627db271abe2)
+#### Medium Blog : [Link](https://medium.com/@ihetpatel79/my-internship-journey-exploring-data-analytics-across-domains-627db271abe2)
+
+#### Internship Report : [Link](https://github.com/ihetpatel/Samatrix_Data_Analysis_Summer_Internship/blob/main/Internship_Report.pdf)
 ------------------------------------------------------------------------
 
 ## 📂 Projects Overview
